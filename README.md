@@ -16,4 +16,7 @@ Hi, I'm Mayowa Otunla. I'm a senior Mathematics student at Kennesaw State Univer
 
 **Methodologies**
 
-`Data Cleaning` • `Exploratory Data Analysis (EDA)` • `Regression Analysis` • `Predictive Modeling`
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-555555?style=flat)
+![EDA](https://img.shields.io/badge/Exploratory_Data_Analysis-555555?style=flat)
+![Regression Analysis](https://img.shields.io/badge/Regression_Analysis-555555?style=flat)
+![Predictive Modeling](https://img.shields.io/badge/Predictive_Modeling-555555?style=flat)
