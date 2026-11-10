@@ -16,7 +16,7 @@ Hi, I'm Mayowa Otunla. I'm a senior Mathematics student at Kennesaw State Univer
 
 **Methodologies**
 
-![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-555555?style=flat)
-![EDA](https://img.shields.io/badge/Exploratory_Data_Analysis-555555?style=flat)
-![Regression Analysis](https://img.shields.io/badge/Regression_Analysis-555555?style=flat)
-![Predictive Modeling](https://img.shields.io/badge/Predictive_Modeling-555555?style=flat)
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-20B2AA?style=flat)
+![EDA](https://img.shields.io/badge/Exploratory_Data_Analysis-4682B4?style=flat)
+![Regression Analysis](https://img.shields.io/badge/Regression_Analysis-9370DB?style=flat)
+![Predictive Modeling](https://img.shields.io/badge/Predictive_Modeling-DB7093?style=flat)
