@@ -16,3 +16,9 @@ Hi, I'm Mayowa Otunla. I'm a senior Mathematics student at Kennesaw State Univer
 ![EDA](https://img.shields.io/badge/Exploratory_Data_Analysis-4682B4?style=flat)
 ![Regression Analysis](https://img.shields.io/badge/Regression_Analysis-9370DB?style=flat)
 ![Predictive Modeling](https://img.shields.io/badge/Predictive_Modeling-DB7093?style=flat)
+
+## Projects
+
+### [YouTube Video Performance Analysis](YouTube-Video-Performance-Analysis/)
+
+Analyzed YouTube video performance using Excel, SQL, and Power BI, exploring how upload timing relates to average and median views per day.
