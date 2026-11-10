@@ -1,3 +1,20 @@
 # Data-Analysis-Portfolio
 ## About Me
 Hi, I'm Mayowa Otunla. I'm a senior Mathematics student at Kennesaw State University with a minor in Applied Statistics & Data Analysis. My background in mathematics and data analysis has given me a strong analytical foundation, and I've gained hands-on experience with Python, R, Power BI, and SQL through projects, coursework, and real-world problems. Through these experiences, I've developed a strong interest in how data can improve processes, highlight patterns, and support better outcomes across teams and organizations.
+### Tech Stack & Skills
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
+
+**Data Visualization & Tools**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+**Methodologies**
+
+`Data Cleaning` • `Exploratory Data Analysis (EDA)` • `Regression Analysis` • `Predictive Modeling`
