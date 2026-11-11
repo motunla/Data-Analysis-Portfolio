@@ -23,7 +23,7 @@ Hi, I'm Mayowa Otunla. I'm a senior Mathematics student at Kennesaw State Univer
   <tr>
     <td width="150" align="center">
       <a href="YouTube-Video-Performance-Analysis/">
-        <img src="YouTube-Video-Performance-Analysis/images/youtube-logo.png" width="120">
+        <img src="YouTube-Video-Performance-Analysis/images/youtube%20logo%202.png" width="150">
       </a>
     </td>
     <td>
