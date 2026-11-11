@@ -31,4 +31,5 @@ These findings suggest that upload timing may be associated with differences in 
 
 ## Project Files
 
-Project datasets, SQL queries, and the Power BI report will be included in this repository.
+- [Excel Dataset](Project%20Files/Youtube_Analytics_Project.xlsx)
+- [SQL Queries](Project%20Files/Youtube_Analytics_Project.sql)
