@@ -19,20 +19,14 @@ Hi, I'm Mayowa Otunla. I'm a senior Mathematics student at Kennesaw State Univer
 
 ## Projects
 
-<table>
-  <tr>
-    <td width="150" align="center">
-      <a href="YouTube-Video-Performance-Analysis/">
-        <img src="YouTube-Video-Performance-Analysis/images/youtube%20logo%202.png" width="150">
-      </a>
-    </td>
-    <td>
-      <a href="YouTube-Video-Performance-Analysis/"><strong>YouTube Video Performance Analysis</strong></a>
-      <br>
-      Analyzed YouTube video performance using Excel, SQL, and Power BI, exploring how upload timing relates to average and median views per day.
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="YouTube-Video-Performance-Analysis/images/youtube%20logo%202.png" width="150" align="left" hspace="15">
+  <a href="YouTube-Video-Performance-Analysis/"><strong>YouTube Video Performance Analysis</strong></a>
+  <br>
+  Analyzed YouTube video performance using Excel, SQL, and Power BI, exploring how upload timing relates to average and median views per day.
+</p>
+<br clear="left">
+
 
 
 
