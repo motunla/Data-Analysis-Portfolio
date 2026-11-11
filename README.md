@@ -21,4 +21,19 @@ Hi, I'm Mayowa Otunla. I'm a senior Mathematics student at Kennesaw State Univer
 
 ### [YouTube Video Performance Analysis](YouTube-Video-Performance-Analysis/)
 
-Analyzed YouTube video performance using Excel, SQL, and Power BI, exploring how upload timing relates to average and median views per day.
+
+<table>
+  <tr>
+    <td width="100">
+      <a href="YouTube-Video-Performance-Analysis/">
+        <img src="YouTube-Video-Performance-Analysis/images/youtube-logo.png" width="75">
+      </a>
+    </td>
+    <td>
+      <a href="YouTube-Video-Performance-Analysis/"><strong>YouTube Video Performance Analysis</strong></a>
+      <br>
+      Analyzed YouTube video performance using Excel, SQL, and Power BI, exploring how upload timing relates to average and median views per day.
+    </td>
+  </tr>
+</table>
+
