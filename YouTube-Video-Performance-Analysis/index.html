@@ -1,1 +1,256 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>YouTube Video Performance Analysis | Mayowa Otunla</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+      background: #0d1117;
+      color: #e6edf3;
+      line-height: 1.7;
+    }
+
+    .container {
+      max-width: 1000px;
+      margin: auto;
+      padding: 50px 24px;
+    }
+
+    nav {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 65px;
+      color: #8b949e;
+      font-size: 14px;
+    }
+
+    nav a, a {
+      color: #58a6ff;
+      text-decoration: none;
+    }
+
+    nav a:hover, a:hover {
+      text-decoration: underline;
+    }
+
+    .eyebrow {
+      color: #58a6ff;
+      font-size: 13px;
+      font-weight: bold;
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      margin-bottom: 14px;
+    }
+
+    h1 {
+      font-size: clamp(32px, 6vw, 48px);
+      line-height: 1.2;
+      margin-bottom: 20px;
+      color: #ffffff;
+    }
+
+    .intro {
+      color: #aeb8c4;
+      font-size: 18px;
+      max-width: 760px;
+      margin-bottom: 40px;
+    }
+
+    .report {
+      width: 100%;
+      border: 1px solid #30363d;
+      border-radius: 10px;
+      margin: 15px 0 55px;
+    }
+
+    section {
+      margin-bottom: 48px;
+    }
+
+    h2 {
+      color: #ffffff;
+      font-size: 24px;
+      margin-bottom: 18px;
+    }
+
+    p {
+      color: #b1bac4;
+      margin-bottom: 14px;
+    }
+
+    ul {
+      padding-left: 22px;
+      color: #b1bac4;
+    }
+
+    li {
+      margin-bottom: 12px;
+    }
+
+    strong {
+      color: #e6edf3;
+    }
+
+    .resources {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 14px;
+      margin-top: 20px;
+    }
+
+    .resource-link {
+      display: inline-block;
+      border: 1px solid #30363d;
+      border-radius: 7px;
+      padding: 11px 17px;
+      color: #58a6ff;
+      background: #161b22;
+    }
+
+    .resource-link:hover {
+      background: #21262d;
+      text-decoration: none;
+    }
+
+    footer {
+      border-top: 1px solid #30363d;
+      padding-top: 24px;
+      margin-top: 65px;
+      color: #8b949e;
+      font-size: 14px;
+    }
+
+    @media (max-width: 600px) {
+      .container {
+        padding: 30px 18px;
+      }
+
+      nav {
+        margin-bottom: 45px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <main class="container">
+
+    <nav>
+      <a href="../../">← Back to Portfolio</a>
+      <span>Data Analysis Project</span>
+    </nav>
+
+    <header>
+      <div class="eyebrow">Data Analysis · Excel · SQL · Power BI</div>
+      <h1>YouTube Video Performance Analysis</h1>
+      <p class="intro">
+        An exploration of YouTube video performance using data collected
+        from my own channel, examining how upload timing relates to
+        average and median views per day.
+      </p>
+    </header>
+
+    <section>
+      <img
+        class="report"
+        src="images/Youtube_Analytics_Project%20Power%20BI%20report%20page.png"
+        alt="Power BI report analyzing YouTube video performance">
+    </section>
+
+    <section>
+      <h2>Overview</h2>
+      <p>
+        This project examines YouTube video performance using data
+        collected from my own channel. The analysis explores how upload
+        timing relates to video performance, using average and median
+        views per day to compare different upload periods.
+      </p>
+    </section>
+
+    <section>
+      <h2>Methodology &amp; Tools</h2>
+      <ul>
+        <li><strong>Data Preparation (Excel):</strong>
+          Organized video data and calculated video age, views per day,
+          and upload time categories.</li>
+        <li><strong>SQL Analysis (SQLite):</strong>
+          Grouped videos by upload period, calculated average views per
+          day, and examined upload distribution.</li>
+        <li><strong>Data Validation (Power Query):</strong>
+          Inspected data quality, filtered incomplete records, and
+          verified data types.</li>
+        <li><strong>Visualization (Power BI):</strong>
+          Compared average and median views per day across upload
+          periods and examined performance by upload hour.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Key Findings</h2>
+      <ul>
+        <li><strong>Evening uploads</strong> had the highest average
+          views per day at 1.92, compared with 1.36 for night uploads
+          and 0.79 for afternoon uploads.</li>
+        <li><strong>Night uploads</strong> had the highest median
+          views per day, suggesting that typical performance differed
+          from what the averages alone indicated.</li>
+        <li>Evening uploads represented the largest share of the
+          dataset, with 101 videos, compared with 45 afternoon uploads
+          and 41 night uploads.</li>
+        <li>A small number of high-performing videos influenced the
+          average views per day, particularly for evening uploads.</li>
+        <li>The hourly analysis showed variation in average performance
+          across individual upload hours.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Conclusion</h2>
+      <p>
+        Evening uploads had the highest average views per day, while
+        night uploads had the highest median. This difference highlights
+        how unusually high-performing videos can influence averages and
+        why examining both measures provides a more complete picture
+        of performance.
+      </p>
+      <p>
+        These findings suggest that upload timing may be associated
+        with differences in video performance, although the analysis
+        does not establish a causal relationship.
+      </p>
+    </section>
+
+    <section>
+      <h2>Project Resources</h2>
+      <p>
+        The dataset and SQL queries used in this analysis are available
+        below.
+      </p>
+      <div class="resources">
+        <a class="resource-link"
+           href="Project%20Files/Youtube_Analytics_Project.xlsx"
+           download>↓ Excel Dataset</a>
+        <a class="resource-link"
+           href="Project%20Files/Youtube_Analytics_Project.sql"
+           download>↓ SQL Queries</a>
+      </div>
+    </section>
+
+    <footer>
+      <p>Created by Mayowa Otunla · 2026</p>
+    </footer>
+
+  </main>
+</body>
+</html>
+
