@@ -19,14 +19,11 @@ Hi, I'm Mayowa Otunla. I'm a senior Mathematics student at Kennesaw State Univer
 
 ## Projects
 
-### [YouTube Video Performance Analysis](YouTube-Video-Performance-Analysis/)
-
-
 <table>
   <tr>
-    <td width="100">
+    <td width="150" align="center">
       <a href="YouTube-Video-Performance-Analysis/">
-        <img src="YouTube-Video-Performance-Analysis/images/youtube-logo.png" width="75">
+        <img src="YouTube-Video-Performance-Analysis/images/youtube-logo.png" width="120">
       </a>
     </td>
     <td>
@@ -36,4 +33,6 @@ Hi, I'm Mayowa Otunla. I'm a senior Mathematics student at Kennesaw State Univer
     </td>
   </tr>
 </table>
+
+
 
