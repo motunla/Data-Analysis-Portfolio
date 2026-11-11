@@ -27,7 +27,7 @@ These findings suggest that upload timing may be associated with differences in 
 
 ## Power BI Report
 
-*Power BI report screenshot will be added here.*
+![Power BI Report](images/Youtube_Analytics_Project%20Power%20BI%20report%20page.png)
 
 ## Project Files
 
